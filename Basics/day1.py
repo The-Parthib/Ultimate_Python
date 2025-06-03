@@ -9,4 +9,6 @@ a = [1,2,3,4,5]
 print(type (a))
 
 a.append(76)
+a.append(77)
+a.append(78)
 print(a)
